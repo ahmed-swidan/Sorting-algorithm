@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584285739 source:c:\codeblocks\sorting algorithms\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<string.h>
+
